@@ -5,7 +5,7 @@
 #    pip-compile
 #
 matplotlib ~=3.3.3
-numpy ~=1.18.5
+numpy ~> 1.22
 pandas ~=1.0.4
 eSEESminiPy
 BraineryBytes
