@@ -2,7 +2,7 @@ numpy
 matplotlib==3.3.3
 seaborn==0.10.1
 pandas
-openseespy
+opensees
 eSEESminiPy
 BraineryBytes
 scipy
